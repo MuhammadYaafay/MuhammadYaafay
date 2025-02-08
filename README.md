@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yaafay</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
+<h3 align="center">A passionate Software developer from Pakistan</h3>
 
 - 💬 Ask me about **node, express**
 
