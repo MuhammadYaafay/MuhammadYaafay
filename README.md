@@ -142,21 +142,6 @@ const myCurrentFocus: CurrentProjects = {
 
 ---
 
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-| Backend Development | AI/ML Integration | Database Design |
-|:-------------------:|:-----------------:|:---------------:|
-| ✅ RESTful APIs | ✅ Langchain Agents | ✅ SQL & NoSQL |
-| ✅ Microservices | ✅ OpenAI GPT-4 | ✅ Prisma & TypeORM |
-| ✅ Authentication | ✅ Vector Databases | ✅ Query Optimization |
-| ✅ Real-time Systems | ✅ Multi-Agent Systems | ✅ Data Modeling |
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
