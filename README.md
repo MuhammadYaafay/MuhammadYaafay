@@ -160,7 +160,7 @@ Full-stack multi-vendor marketplace with AR/3D product visualization. Integrated
 
 ---
 
-### ✈️ Airline Management System
+### ✈️ JetStream - Airline Management System
 **Tech Stack:** `Next.js` `Express.js` `MySQL` `Sequelize` `Tailwind CSS`
 
 Production-ready booking platform with microservices architecture. Real-time flight search across 10,000+ flights with dynamic pricing, achieving 95+ Lighthouse performance score and 35% faster API response times.
