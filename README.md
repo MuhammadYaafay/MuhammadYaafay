@@ -6,9 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Building+AI-Powered+Scalable+Systems;Langchain+%7C+Multi-Agent+%7C+Vector+DBs;Node.js+%7C+NestJS+%7C+React+Native;Passionate+Developer+from+Pakistan+🇵🇰" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadyaafay)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/muhammadyaafay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yaafay-0518122a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.yaffay@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://yaafay-portfolio.vercel.app/)
+[![RESUME](https://img.shields.io/badge/RESUME-DC143C?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/uc?export=download&id=1A1zZL8HAvJ63RgbTe4EZGmVz_avhBt18)
 
 </div>
 
@@ -187,7 +188,9 @@ I'm always interested in collaborating on exciting projects or discussing backen
 
 📧 **Email:** [muhammad.yaffay@gmail.com](mailto:muhammad.yaffay@gmail.com)
 
-💼 **LinkedIn:** [muhammadyaafay](https://linkedin.com/in/muhammadyaafay)
+💼 **LinkedIn:** [muhammadyaafay](https://www.linkedin.com/in/muhammad-yaafay-0518122a6/)
+
+🌐 **Portfolio:** [muhammadyaafay.github.io](https://yaafay-portfolio.vercel.app/)
 
 💻 **LeetCode:** [muhammadyaafay](https://www.leetcode.com/muhammadyaafay)
 
